@@ -29,6 +29,10 @@ This repository contains a comprehensive collection of **PyCaret AutoML tutorial
 - ✅ Production-ready Gradio demos
 - ✅ Comprehensive documentation and explanations
 
+## Youtube Link
+
+https://youtu.be/cLEhX23qkO0
+
 ## 📁 Project Structure
 
 ```
